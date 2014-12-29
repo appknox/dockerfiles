@@ -16,3 +16,6 @@ See README in the each directories for details.
 
 ### openjdk7
 
+### inkscape
+
+### pandoc
